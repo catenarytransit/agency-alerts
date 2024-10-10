@@ -1,6 +1,6 @@
 {
   "chateaus": ["hillsborougharearegionaltransit"],
   "header": "Hurricane Alert - All HART (No Service)",
-  "body": "HART will suspend all operations as of 8 PM on Tuesday, October 8th through Thursday, October 10th. HART bus service, HARTPlus, HARTFlex, and Streetcar will not be running any service. All facilities and offices will be closed."
+  "body": "HART will suspend all operations as of 8 PM on Tuesday, October 8th through Thursday, October 10th. HART bus service, HARTPlus, HARTFlex, and Streetcar will not be running any service. All facilities and offices will be closed.",
   "active": true
 }
